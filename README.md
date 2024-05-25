@@ -1,2 +1,3 @@
 # FrontEnd_PowerBoost
-안녕하세요, 노찬영 입니다.
+Runners, Boost your potential!
+코드잇 부스트 1기 프론트엔드 파워부스트 
